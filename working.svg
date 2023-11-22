@@ -5,7 +5,7 @@
 viewBox="0 0 90000 30000"
  xmlns:xlink="http://www.w3.org/1999/xlink">
  <defs>
-  <font id="FontID0" horiz-adv-x="690" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+  <font id="FontID0" horiz-adv-x="690" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
 	<font-face 
 		font-family="Lucida Sans Unicode">
 	</font-face>
@@ -53,7 +53,7 @@ viewBox="0 0 90000 30000"
   <metadata id="CorelCorpID_0Corel-Layer"/>
   <text x="27655" y="1830"  class="fil0 fnt0">oomlout_toys_lego_sorting_odd_box_extra_small_sorter</text>
   <rect class="fil1 str0" x="31000" y="6250" width="28000" height="23500"/>
-  <g id="_978298032">
+  <g id="_978685680">
    <circle class="fil1 str1" cx="46000" cy="20625" r="750"/>
    <circle class="fil1 str1" cx="44000" cy="20625" r="750"/>
    <circle class="fil1 str1" cx="42000" cy="20625" r="750"/>
@@ -174,7 +174,7 @@ viewBox="0 0 90000 30000"
   <text x="40714" y="4830"  class="fil0 fnt0">15_mm_holes</text>
   <text x="13555" y="4830"  class="fil0 fnt0">base</text>
   <rect class="fil1 str0" x="1000" y="6250" width="28000" height="23500"/>
-  <g id="_974471392">
+  <g id="_790351936">
    <circle class="fil1 str1" cx="2250" cy="8250" r="300"/>
    <circle class="fil1 str1" cx="2250" cy="9750" r="300"/>
    <circle class="fil1 str1" cx="2250" cy="9000" r="150"/>
@@ -297,7 +297,7 @@ viewBox="0 0 90000 30000"
    <circle class="fil1 str1" transform="matrix(2.27504E-014 -0.859008 0.859008 2.27504E-014 25500 27750)" r="175"/>
    <path class="fil1 str1" d="M1550 27950l0 -19900c0,-276 224,-500 500,-500l25900 0c276,0 500,224 500,500l0 19900c0,276 -224,500 -500,500l-25900 0c-276,0 -500,-224 -500,-500z"/>
   </g>
-  <g id="_975384896">
+  <g id="_967876768">
    <circle class="fil1 str1" cx="32250" cy="8250" r="300"/>
    <circle class="fil1 str1" cx="32250" cy="9750" r="300"/>
    <circle class="fil1 str1" cx="32250" cy="9000" r="150"/>
@@ -422,7 +422,7 @@ viewBox="0 0 90000 30000"
   </g>
   <rect class="fil1 str0" x="61000" y="6250" width="28000" height="23500"/>
   <text x="70714" y="4830"  class="fil0 fnt0">40_mm_holes</text>
-  <g id="_975456176">
+  <g id="_983212656">
    <g>
     <circle class="fil1 str1" cx="62250" cy="8250" r="300"/>
     <circle class="fil1 str1" cx="62250" cy="9750" r="300"/>
