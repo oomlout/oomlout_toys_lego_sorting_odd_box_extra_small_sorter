@@ -3,7 +3,7 @@ project_name: "Lego Sorter Using Odd Box Extra Small Box As Base"
 project_repo: github.com/oomlout/oomlout_toys_lego_sorting_odd_box_extra_small_sorter
 production_format:
   a4_1_15_mm_holes:
-    file_location: oomlout_toys_lego_sorting_odd_box_extra_small_sorter_15_mm_holes_a4.cdr
+    file_location: source_files/oomlout_toys_lego_sorting_odd_box_extra_small_sorter_15_mm_holes_a4.cdr
   a4_1_40_mm_holes:
-    file_location: oomlout_toys_lego_sorting_odd_box_extra_small_sorter_40_mm_holes_a4.cdr
+    file_location: source_files/oomlout_toys_lego_sorting_odd_box_extra_small_sorter_40_mm_holes_a4.cdr
   
